@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/AbeerDas14/SafiyaWebsite/static/css/main.da314000.css",
+    "main.js": "/AbeerDas14/SafiyaWebsite/static/js/main.bcd31eab.js",
+    "static/js/592.bc530569.chunk.js": "/AbeerDas14/SafiyaWebsite/static/js/592.bc530569.chunk.js",
+    "static/media/Horsepower.mp3": "/AbeerDas14/SafiyaWebsite/static/media/Horsepower.eb6e65b4f78e87ed7614.mp3",
+    "static/media/cheer.mp3": "/AbeerDas14/SafiyaWebsite/static/media/cheer.b3252cf3386d45565a69.mp3",
+    "static/media/us.jpg": "/AbeerDas14/SafiyaWebsite/static/media/us.cebd6e760efbd4085b7f.jpg",
+    "index.html": "/AbeerDas14/SafiyaWebsite/index.html",
+    "main.da314000.css.map": "/AbeerDas14/SafiyaWebsite/static/css/main.da314000.css.map",
+    "main.bcd31eab.js.map": "/AbeerDas14/SafiyaWebsite/static/js/main.bcd31eab.js.map",
+    "592.bc530569.chunk.js.map": "/AbeerDas14/SafiyaWebsite/static/js/592.bc530569.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da314000.css",
+    "static/js/main.bcd31eab.js"
+  ]
+}
